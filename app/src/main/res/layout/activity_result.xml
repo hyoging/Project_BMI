@@ -22,8 +22,8 @@
         android:id="@+id/imgv"
         android:layout_width="250dp"
         android:layout_height="300dp"
-        android:background="#FFEB3B"
-        android:scaleType="fitXY"/>
+        android:src="@drawable/bmi"
+        />
     <TextView
         android:id="@+id/text_result1"
         android:layout_width="wrap_content"
